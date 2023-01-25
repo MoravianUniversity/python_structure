@@ -5,3 +5,5 @@
 .pytest_cache/
 .cache/
 .env
+.vscode/
+
